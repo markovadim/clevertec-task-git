@@ -1,3 +1,5 @@
 Hello World!
 ***
 05-02 21-29 - fixed bug
+***
+05-02 21-34 - first major version
