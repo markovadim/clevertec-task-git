@@ -1,0 +1,9 @@
+************
+Feature
+feature noun (QUALITY)
+a typical quality or an important part of something:
+The town's main features are its beautiful mosque and ancient marketplace.
+Our latest model of phone has several new features.
+A unique feature of these rock shelters was that they were dry.
+
+date: 03-02-2023 19:45
