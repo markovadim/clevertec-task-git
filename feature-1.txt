@@ -15,3 +15,8 @@ to do something illegal or something that is considered wrong:
 He was sent to prison for a crime that he didn't commit.
 to commit adultery/murder
 to commit an offence
+
+************
+Status
+SYNOPSIS
+git status [<options>] [--] [<pathspec>…​]
