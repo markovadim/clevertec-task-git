@@ -5,3 +5,5 @@
 05-02-2023 2242 test [part 2]
 ***
 05-02-2023 22-44 test OK
+***
+05-02-2023 22-55 major release - done
