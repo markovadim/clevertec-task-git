@@ -20,3 +20,14 @@ to commit an offence
 Status
 SYNOPSIS
 git status [<options>] [--] [<pathspec>…​]
+
+************
+SYNOPSIS
+git tag [-a | -s | -u <key-id>] [-f] [-m <msg> | -F <file>] [-e]
+	<tagname> [<commit> | <object>]
+git tag -d <tagname>…​
+git tag [-n[<num>]] -l [--contains <commit>] [--no-contains <commit>]
+	[--points-at <object>] [--column[=<options>] | --no-column]
+	[--create-reflog] [--sort=<key>] [--format=<format>]
+	[--merged <commit>] [--no-merged <commit>] [<pattern>…​]
+git tag -v [--format=<format>] <tagname>…​
