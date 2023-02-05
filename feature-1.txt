@@ -1,0 +1,33 @@
+************
+Feature
+feature noun (QUALITY)
+a typical quality or an important part of something:
+The town's main features are its beautiful mosque and ancient marketplace.
+Our latest model of phone has several new features.
+A unique feature of these rock shelters was that they were dry.
+
+date: 03-02-2023 19:45
+
+************
+Commit
+commit verb (CRIME)
+to do something illegal or something that is considered wrong:
+He was sent to prison for a crime that he didn't commit.
+to commit adultery/murder
+to commit an offence
+
+************
+Status
+SYNOPSIS
+git status [<options>] [--] [<pathspec>…​]
+
+************
+SYNOPSIS
+git tag [-a | -s | -u <key-id>] [-f] [-m <msg> | -F <file>] [-e]
+	<tagname> [<commit> | <object>]
+git tag -d <tagname>…​
+git tag [-n[<num>]] -l [--contains <commit>] [--no-contains <commit>]
+	[--points-at <object>] [--column[=<options>] | --no-column]
+	[--create-reflog] [--sort=<key>] [--format=<format>]
+	[--merged <commit>] [--no-merged <commit>] [<pattern>…​]
+git tag -v [--format=<format>] <tagname>…​
